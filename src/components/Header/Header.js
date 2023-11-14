@@ -1,6 +1,6 @@
 import React from 'react'
-import Navbar from './Navbar'
-import logo from '../resources/logo.png'
+import Navbar from './Navbar/Navbar'
+import logo from '../../resources/logo.png'
 
 function Header() {
     const data = (

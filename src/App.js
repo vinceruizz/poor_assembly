@@ -1,6 +1,6 @@
 import './App.css';
-import Header from './components/Header'
-import Sidenav from './components/Sidenav'
+import Header from './components/Header/Header'
+import Sidenav from './components/Sidenav/Sidenav'
 
 function App() {
   return (
